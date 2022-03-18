@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: "Gatsby + Netlify CMS Starter",
+    title: "Grow bono: Close the access to justice gap at scale",
     description:
-      "This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.",
+      "Learn more about creative approaches to closing the access to justice gap at scale.",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
