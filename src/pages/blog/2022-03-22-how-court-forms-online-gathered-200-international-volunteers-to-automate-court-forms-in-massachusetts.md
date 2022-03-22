@@ -8,5 +8,7 @@ description: Starting in March of 2020, Suffolk's Legal Innovation and
   build courtformsonline.org.
 featuredpost: true
 featuredimage: /img/courtformsonline.png
+tags:
+  - Automation
 ---
 [CourtFormsOnline](https://courtformsonline.org)
